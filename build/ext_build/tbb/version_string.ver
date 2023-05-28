@@ -1,0 +1,11 @@
+#define __TBB_VERSION_STRINGS(N) \
+#N": BUILD_HOST         Linux" ENDL \
+#N": BUILD_OS           Linux-6.1.29-1-MANJARO" ENDL \
+#N": BUILD_KERNEL       6.1.29-1-MANJARO" ENDL \
+#N": BUILD_GCC          GNU" ENDL \
+#N": BUILD_LIBC         Unknown" ENDL \
+#N": BUILD_LD           Unknown" ENDL \
+#N": BUILD_TARGET       Unknown" ENDL \
+#N": BUILD_COMMAND      Unknown" ENDL
+
+#define __TBB_DATETIME "Sun, 28 May 2023 23:31:27 +0200"

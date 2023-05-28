@@ -10,7 +10,7 @@
       <float name="attenuation" value="0.05"/>
    </integrator>
 	<sampler type="independent">
-		<integer name="sampleCount" value="2"/>
+		<integer name="sampleCount" value="5000"/>
 	</sampler>
 	<camera type="perspective">
 		<float name="fov" value="39.597755335771296"/>
